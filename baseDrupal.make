@@ -53,9 +53,13 @@ projects[devel][version] = 1.3
 projects[devel][type] = "module"
 projects[devel][subdir] = "contrib"
 
-projects[features][version] = 2.0-rc1
+projects[features][version] = 2.0-rc3
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
+
+projects[strongarm][version] = 2.0
+projects[strongarm][type] = "module"
+projects[strongarm][subdir] = "contrib" 
 
 projects[backup_migrate][version] = 2.7
 projects[backup_migrate][type] = "module"
@@ -71,7 +75,7 @@ projects[views][subdir] = "contrib"
 
 projects[l10n_update][type] = "module"
 projects[l10n_update][subdir] = "multilingual"
-projects[l10n_update][version] = "1.0-beta2"
+projects[l10n_update][version] = "1.0-beta3"
 
 projects[ckeditor][version] = 1.13
 projects[ckeditor][type] = "module"
@@ -80,6 +84,14 @@ projects[ckeditor][subdir] = "contrib"
 projects[plupload][version] = 1.2
 projects[plupload][type] = "module"
 projects[plupload][subdir] = "contrib" 
+
+projects[i18n][version] = 1.10
+projects[i18n][type] = "module"
+projects[i18n][subdir] = "contrib" 
+
+projects[media][version] = 2.0-alpha2
+projects[media][type] = "module"
+projects[media][subdir] = "contrib" 
 
 
 
